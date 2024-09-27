@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+<p align="center">
+    <img src="https://leetcard.jacoblin.cool/ryanycs?ext=heatmap", alt="">
+</p>
+
 <!--
 **ryanycs/ryanycs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
